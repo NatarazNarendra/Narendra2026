@@ -1,0 +1,5 @@
+com/nam/dcm/controller/MachineController.class
+com/nam/dcm/controller/MsgFilterConsumer.class
+com/nam/dcm/service/KafkaSender.class
+com/nam/dcm/service/FileStorageService.class
+com/nam/dcm/ReginalNamConfig.class
